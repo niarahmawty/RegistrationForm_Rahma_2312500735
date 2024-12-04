@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="fakultas_array">
+        <item>FTI</item>
+        <item>FE</item>
+        <item>FIKOM</item>
+        <item>FK</item>
+    </string-array>
+</resources>
